@@ -1,4 +1,4 @@
-# JenkinsWorkshop
+# Jenkins Workshop
 
 Objective is to get Jenkins running unit tests, API tests and GUI tests in an automated fashion for Swift and Android projects
 
