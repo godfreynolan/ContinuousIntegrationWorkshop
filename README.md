@@ -20,8 +20,8 @@ Objective is to get Jenkins running unit tests, API tests and GUI tests in an au
 * **Lab 6: Performance testing**
 	>*In this lab , you will measure how long a unit test takes to complete.*
   
-* **Lab 7: Mocking **
-	>*In this lab , you will mock the web service API calls.*
+* **Lab 7: Mocking**
+	>*In this lab , you will mock a web service API call.*
     
 * **Lab 8: Install Jenkins**
 	>*In this lab , you will install a Jenkins server and create the Jenkins user with the correct permissions.*
